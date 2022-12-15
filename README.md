@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
-- [As más práticas mais comuns no JavaScript](https://blog.lsantos.dev/mas-praticas-javascript/)
-- [Agrupamento com Array.prototype.groupBy](https://blog.lsantos.dev/array-groupby-stage-3/)
-- [Negociação salarial para devs - dicas e truques](https://blog.lsantos.dev/negociacao-salarial-para-devs-o-que-eu-queria-saber/)
-- [Por que escrever é importante pra sua carreira?](https://blog.lsantos.dev/por-que-escrever-e-importante-pra-sua-carreira/)
-- [O que eu aprendi depois de 150 palestras](https://blog.lsantos.dev/150-palestras/)
+- [O JavaScript vai deixar de ser single thread? Entenda as Module Expressions](https://blog.lsantos.dev/module-expressions-js/)
+- [LS -news #7](https://blog.lsantos.dev/ls-news-7/)
+- [Decorators no JavaScript](https://blog.lsantos.dev/javascript-decorators/)
+- [LS -news #6](https://blog.lsantos.dev/ls-news-6/)
+- [CLIs mais simples com Util.parseArgs](https://blog.lsantos.dev/parseargs/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
