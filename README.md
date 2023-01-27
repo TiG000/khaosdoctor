@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [ls -news #9](https://blog.lsantos.dev/ls-news-9/)
 - [O que são erros e para que serve o error.cause no JavaScript?](https://blog.lsantos.dev/error-cause/)
 - [Para que servem os generators no JS?](https://blog.lsantos.dev/generators-js/)
 - [LS -news #8](https://blog.lsantos.dev/ls-news-8/)
 - [Vamos falar sobre o Deno](https://blog.lsantos.dev/deno/)
-- [O JavaScript vai deixar de ser single thread? Entenda as Module Expressions](https://blog.lsantos.dev/module-expressions-js/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
