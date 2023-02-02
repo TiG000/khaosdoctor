@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O que há de novo no TypeScript 5.0](https://blog.lsantos.dev/typescript-5/)
 - [ls -news #9](https://blog.lsantos.dev/ls-news-9/)
 - [O que são erros e para que serve o error.cause no JavaScript?](https://blog.lsantos.dev/error-cause/)
 - [Para que servem os generators no JS?](https://blog.lsantos.dev/generators-js/)
 - [LS -news #8](https://blog.lsantos.dev/ls-news-8/)
-- [Vamos falar sobre o Deno](https://blog.lsantos.dev/deno/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
