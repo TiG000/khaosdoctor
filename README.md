@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [LS -news #10: Edição especial com surpresa!](https://blog.lsantos.dev/ls-news-10/)
 - [O que é a nova propostas de sequências com o Iterator.range no JavaScript](https://blog.lsantos.dev/number-range/)
 - [O que há de novo no TypeScript 5.0](https://blog.lsantos.dev/typescript-5/)
 - [ls -news #9](https://blog.lsantos.dev/ls-news-9/)
 - [O que são erros e para que serve o error.cause no JavaScript?](https://blog.lsantos.dev/error-cause/)
-- [Para que servem os generators no JS?](https://blog.lsantos.dev/generators-js/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
