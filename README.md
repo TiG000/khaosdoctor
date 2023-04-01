@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Sobe a #SemanaTS!](https://blog.lsantos.dev/sobe-a-semana-ts/)
 - [LS -news #11: Tudo sobre TypeScript](https://blog.lsantos.dev/ls-news-11/)
 - [As novidades oficiais do TypeScript 5.0](https://blog.lsantos.dev/novidades-no-typescript-5-0/)
 - [LS -news #10: Edição especial com surpresa!](https://blog.lsantos.dev/ls-news-10/)
 - [O que é a nova propostas de sequências com o Iterator.range no JavaScript](https://blog.lsantos.dev/number-range/)
-- [O que há de novo no TypeScript 5.0 Beta](https://blog.lsantos.dev/typescript-5/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
