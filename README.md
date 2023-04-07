@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Programação de tipos - #SemanaTS dia 5](https://blog.lsantos.dev/programacao-orientada-a-tipos-semanats-dia-5/)
 - [Técnicas avançadas com TypeScript - #SemanaTS dia 4](https://blog.lsantos.dev/tecnicas-avancadas-com-typescript-semanats-dia-4/)
 - [Boas e más práticas com TypeScript - #SemanaTS dia 3](https://blog.lsantos.dev/boas-praticas-ts-semana-ts-3/)
 - [Tipos externos e pacotes de declarações - #Semana TS dia 2](https://blog.lsantos.dev/semana-ts-2/)
 - [O que você sabia e não sabia sobre TS - Semana TS dia 1](https://blog.lsantos.dev/ts-configs-semana-ts-1/)
-- [Sobe a #SemanaTS!](https://blog.lsantos.dev/sobe-a-semana-ts/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
