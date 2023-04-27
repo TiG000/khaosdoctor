@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O Node.js 20 está no ar! Conheça as novidades](https://blog.lsantos.dev/node-20/)
 - [O Deno agora tem um banco de dados nativo](https://blog.lsantos.dev/deno-kv/)
 - [Por essa surpresa você não esperava](https://blog.lsantos.dev/por-essa-surpresa-voce-nao-esperava/)
 - [Programação de tipos - #SemanaTS dia 5](https://blog.lsantos.dev/programacao-orientada-a-tipos-semanats-dia-5/)
 - [Técnicas avançadas com TypeScript - #SemanaTS dia 4](https://blog.lsantos.dev/tecnicas-avancadas-com-typescript-semanats-dia-4/)
-- [Boas e más práticas com TypeScript - #SemanaTS dia 3](https://blog.lsantos.dev/boas-praticas-ts-semana-ts-3/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
