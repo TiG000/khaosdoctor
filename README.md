@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O que é o NPM package provenance?](https://blog.lsantos.dev/npm-provenance/)
 - [O que o ECMAScript 2023 está trazendo de novo?](https://blog.lsantos.dev/ecma-2023/)
 - [ls -news #12 - Node 20 está ai!](https://blog.lsantos.dev/ls-news-11-2/)
 - [O Node.js 20 está no ar! Conheça as novidades](https://blog.lsantos.dev/node-20/)
 - [O Deno agora tem um banco de dados nativo](https://blog.lsantos.dev/deno-kv/)
-- [Por essa surpresa você não esperava](https://blog.lsantos.dev/por-essa-surpresa-voce-nao-esperava/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
