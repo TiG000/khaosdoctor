@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Debug de containers com o Docker Gremlin](https://blog.lsantos.dev/docker-gremlin/)
 - [O que é type-testing com TypeScript? É um anti-pattern? Vale a pena?](https://blog.lsantos.dev/type-testing/)
 - [ls -news #13: Polêmicas e segurança](https://blog.lsantos.dev/ls-news-13/)
 - [O que é o NPM package provenance?](https://blog.lsantos.dev/npm-provenance/)
 - [O que o ECMAScript 2023 está trazendo de novo?](https://blog.lsantos.dev/ecma-2023/)
-- [ls -news #12 - Node 20 está ai!](https://blog.lsantos.dev/ls-news-11-2/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
