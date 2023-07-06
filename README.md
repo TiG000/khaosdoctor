@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Tudo sobre o novo Docker compose file watch](https://blog.lsantos.dev/docker-compose-watch/)
 - [ls -news #14](https://blog.lsantos.dev/ls-news-14/)
 - [Debug de containers com o Docker Gremlin](https://blog.lsantos.dev/docker-gremlin/)
 - [O que é type-testing com TypeScript? É um anti-pattern? Vale a pena?](https://blog.lsantos.dev/type-testing/)
 - [ls -news #13: Polêmicas e segurança](https://blog.lsantos.dev/ls-news-13/)
-- [O que é o NPM package provenance?](https://blog.lsantos.dev/npm-provenance/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
