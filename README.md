@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Operações atômicas com Deno KV](https://blog.lsantos.dev/kv-atomic-ops/)
 - [Você já conhece o Deno KV?](https://blog.lsantos.dev/deno-kv-beta/)
 - [Tudo sobre o novo Docker compose file watch](https://blog.lsantos.dev/docker-compose-watch/)
 - [ls -news #14](https://blog.lsantos.dev/ls-news-14/)
 - [Debug de containers com o Docker Gremlin](https://blog.lsantos.dev/docker-gremlin/)
-- [O que é type-testing com TypeScript? É um anti-pattern? Vale a pena?](https://blog.lsantos.dev/type-testing/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
