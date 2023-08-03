@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [A nova funcionalidade do TS 5.2: conheça o Using](https://blog.lsantos.dev/ts-using/)
 - [ls -news #15](https://blog.lsantos.dev/ls-news-15/)
 - [Operações atômicas com Deno KV](https://blog.lsantos.dev/kv-atomic-ops/)
 - [Você já conhece o Deno KV?](https://blog.lsantos.dev/deno-kv-beta/)
 - [Tudo sobre o novo Docker compose file watch](https://blog.lsantos.dev/docker-compose-watch/)
-- [ls -news #14](https://blog.lsantos.dev/ls-news-14/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
