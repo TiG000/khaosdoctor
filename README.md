@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [ls -news #16: Novidades no TS 5.2 e nova funcionalidade do Node.js](https://blog.lsantos.dev/ls-news-16/)
 - [Você nunca vai terminar nada - Lições de uma década de erros](https://blog.lsantos.dev/ilusao-de-controle/)
 - [A nova funcionalidade do TS 5.2: conheça o Using](https://blog.lsantos.dev/ts-using/)
 - [ls -news #15](https://blog.lsantos.dev/ls-news-15/)
 - [Operações atômicas com Deno KV](https://blog.lsantos.dev/kv-atomic-ops/)
-- [Você já conhece o Deno KV?](https://blog.lsantos.dev/deno-kv-beta/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
