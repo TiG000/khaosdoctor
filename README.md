@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Acessando arquivos .env nativamente com Node.js](https://blog.lsantos.dev/dotenv-nodejs/)
 - [Como rodar TypeScript nativamente no Node.js com TSX](https://blog.lsantos.dev/tsx-loader/)
 - [LS -news #17:](https://blog.lsantos.dev/ls-news-17/)
 - [A novidades do TS 5.3](https://blog.lsantos.dev/ts-53-alpha/)
 - [ls -news #16: Novidades no TS 5.2 e nova funcionalidade do Node.js](https://blog.lsantos.dev/ls-news-16/)
-- [Você nunca vai terminar nada - Lições de uma década de erros](https://blog.lsantos.dev/ilusao-de-controle/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
