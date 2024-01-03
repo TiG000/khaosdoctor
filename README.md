@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Suporte a env, mudanças de api e novidades do Deno 1.38](https://blog.lsantos.dev/deno-1-38/)
 - [A versão 21.2 do Node é a mais especial de todas!](https://blog.lsantos.dev/node-21-2/)
 - [Novidades do Node 21!](https://blog.lsantos.dev/node-21/)
 - [Novidades do TS 5.3 - Beta!](https://blog.lsantos.dev/ts-5-3-beta/)
 - [Definindo métodos estáticos em interfaces com TypeScript](https://blog.lsantos.dev/interfaces-estaticas-typescript/)
-- [Acessando arquivos .env nativamente com Node.js](https://blog.lsantos.dev/dotenv-nodejs/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
