@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Criptografia #0 - Conceitos essenciais](https://blog.lsantos.dev/criptografia-essencial/)
 - [As filas chegaram no Deno KV](https://blog.lsantos.dev/deno-kv-queues/)
 - [Suporte a env, mudanças de api e novidades do Deno 1.38](https://blog.lsantos.dev/deno-1-38/)
 - [A versão 21.2 do Node é a mais especial de todas!](https://blog.lsantos.dev/node-21-2/)
 - [Novidades do Node 21!](https://blog.lsantos.dev/node-21/)
-- [Novidades do TS 5.3 - Beta!](https://blog.lsantos.dev/ts-5-3-beta/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
