@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Cronjobs na cloud com Deno Cron](https://blog.lsantos.dev/deno-cron/)
 - [Criptografia #0 - Conceitos essenciais](https://blog.lsantos.dev/criptografia-essencial/)
 - [As filas chegaram no Deno KV](https://blog.lsantos.dev/deno-kv-queues/)
 - [Suporte a env, mudanças de api e novidades do Deno 1.38](https://blog.lsantos.dev/deno-1-38/)
 - [A versão 21.2 do Node é a mais especial de todas!](https://blog.lsantos.dev/node-21-2/)
-- [Novidades do Node 21!](https://blog.lsantos.dev/node-21/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
