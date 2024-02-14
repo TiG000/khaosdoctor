@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Novidades do TypeScript 5.4](https://blog.lsantos.dev/novidades-no-typescript-5-4-beta/)
 - [Sobre Entrevistas Técnicas - Nunca foi sobre o código](https://blog.lsantos.dev/entrevistas-tecnicas/)
 - [Aplicações em tempo real com Deno KV](https://blog.lsantos.dev/deno-kv-watch/)
 - [Cronjobs na cloud com Deno Cron](https://blog.lsantos.dev/deno-cron/)
 - [Criptografia #0 - Conceitos essenciais](https://blog.lsantos.dev/criptografia-essencial/)
-- [As filas chegaram no Deno KV](https://blog.lsantos.dev/deno-kv-queues/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
