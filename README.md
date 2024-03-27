@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Deno KV no NPM - o DB que você precisava e não sabia](https://blog.lsantos.dev/deno-kv-chega-ao-npm/)
 - [Já conhece os acessores automáticos no TypeScript?](https://blog.lsantos.dev/acessores-automaticos-com-typescript/)
 - [Parallel Assignments - A feature que você não sabia que existia no JavaScript](https://blog.lsantos.dev/parallel-assignments-a-feature-que-voce-nao-sabia-que-existia-no-javascript/)
 - [Criptografia #1 - Criptografia Assimétrica com RSA](https://blog.lsantos.dev/criptografia-assimetrica-com-rsa/)
 - [Novidades do Deno 1.40](https://blog.lsantos.dev/novidades-do-deno-1-4/)
-- [O conceito de &quot;referência&quot; e &quot;valor&quot; no JavaScript](https://blog.lsantos.dev/o-conceito-de-referencia-e-valor-no-javascript/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
