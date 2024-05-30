@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Começando com o Node.js Test Runner](https://blog.lsantos.dev/comecando-com-o-node-js-test-runner/)
 - [O que são &#39;const assertions&#39; no TypeScript? O famoso &#39;as const&#39;](https://blog.lsantos.dev/entenda-o-que-e-as-const-no-typescript/)
 - [Você deveria estar usando Enums no TypeScript?](https://blog.lsantos.dev/enums-no-typescript/)
 - [Types versus interfaces em 2024 - qual usar?](https://blog.lsantos.dev/types-versus-interfaces-no-typescript-em-2024/)
 - [Filtrando classes e métodos de um tipo no TypeScript](https://blog.lsantos.dev/filtrando-classes-e-metodos-de-um-tipo-no-typescript/)
-- [Deno KV no NPM - o DB que você precisava e não sabia](https://blog.lsantos.dev/deno-kv-chega-ao-npm/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
