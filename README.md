@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Usando Assertion Functions no TypeScript](https://blog.lsantos.dev/assertion-functions/)
 - [Usando Mocks com Node Test Runner](https://blog.lsantos.dev/node-test-runner-mocks/)
 - [Começando com o Node.js Test Runner](https://blog.lsantos.dev/comecando-com-o-node-js-test-runner/)
 - [O que são &#39;const assertions&#39; no TypeScript? O famoso &#39;as const&#39;](https://blog.lsantos.dev/entenda-o-que-e-as-const-no-typescript/)
 - [Você deveria estar usando Enums no TypeScript?](https://blog.lsantos.dev/enums-no-typescript/)
-- [Types versus interfaces em 2024 - qual usar?](https://blog.lsantos.dev/types-versus-interfaces-no-typescript-em-2024/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
