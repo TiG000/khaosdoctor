@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Tipando variáveis de ambiente do jeito certo com TS](https://blog.lsantos.dev/ts-envs/)
 - [O que há de novo no JavaScript em 2024](https://blog.lsantos.dev/ecma-2024/)
 - [O que é o Corepack e como você pode usá-lo?](https://blog.lsantos.dev/corepack/)
 - [A maior atualização do TypeScript em anos - TypeScript 5.5](https://blog.lsantos.dev/typescript-55/)
 - [JavaScript ganha novos métodos para o Set](https://blog.lsantos.dev/ecma-2024-sets/)
-- [Usando Jest com TypeScript](https://blog.lsantos.dev/jest-com-typescript/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
