@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Onde usar ANY no TypeScript](https://blog.lsantos.dev/onde-usar-any-no-typescript/)
 - [Como implementei os date mocks no core do Node.js](https://blog.lsantos.dev/mocks-no-core-do-node-js/)
 - [O que esperar do JavaScript em 2025](https://blog.lsantos.dev/js-2025/)
 - [Tipando variáveis de ambiente do jeito certo com TS](https://blog.lsantos.dev/ts-envs/)
 - [O que há de novo no JavaScript em 2024](https://blog.lsantos.dev/ecma-2024/)
-- [O que é o Corepack e como você pode usá-lo?](https://blog.lsantos.dev/corepack/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
