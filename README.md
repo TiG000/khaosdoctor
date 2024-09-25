@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Primeiros passos com Neovim](https://blog.lsantos.dev/instalando-e-configurando-o-neovim/)
 - [Usando tipos derivados](https://blog.lsantos.dev/tipos-derivados/)
 - [O que é a novidade dos JavaScript Signals](https://blog.lsantos.dev/js-signals/)
 - [UUIDs são ruins? Entenda o que é ULID](https://blog.lsantos.dev/o-que-e-ulid/)
 - [Onde usar ANY no TypeScript](https://blog.lsantos.dev/onde-usar-any-no-typescript/)
-- [Como implementei os date mocks no core do Node.js](https://blog.lsantos.dev/mocks-no-core-do-node-js/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
