@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [O JavaScript será completamente diferente em 2025](https://blog.lsantos.dev/js-2025-de-novo/)
 - [Primeiros passos com Neovim](https://blog.lsantos.dev/instalando-e-configurando-o-neovim/)
 - [Usando tipos derivados](https://blog.lsantos.dev/tipos-derivados/)
 - [O que é a novidade dos JavaScript Signals](https://blog.lsantos.dev/js-signals/)
 - [UUIDs são ruins? Entenda o que é ULID](https://blog.lsantos.dev/o-que-e-ulid/)
-- [Onde usar ANY no TypeScript](https://blog.lsantos.dev/onde-usar-any-no-typescript/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
