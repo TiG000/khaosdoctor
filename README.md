@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [[Backlog #1] O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
 - [[Backlog #0] Um desabafo](https://blog.lsantos.dev/backlog-0/)
 - [Deno 2.0: Será que agora o Node já era?](https://blog.lsantos.dev/deno-2/)
 - [O JavaScript será completamente diferente em 2025](https://blog.lsantos.dev/js-2025-de-novo/)
 - [Primeiros passos com Neovim](https://blog.lsantos.dev/instalando-e-configurando-o-neovim/)
-- [Usando tipos derivados](https://blog.lsantos.dev/tipos-derivados/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
