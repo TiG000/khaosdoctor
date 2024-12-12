@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Backlog #3 - 29 anos de JavaScript!](https://blog.lsantos.dev/backlog-3-29-anos-de-javascript/)
 - [[Backlog #2] Trabalhar duro não vai te levar tão longe](https://blog.lsantos.dev/backlog-2/)
 - [[Backlog #1] O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
 - [[Backlog #0] Um desabafo](https://blog.lsantos.dev/backlog-0/)
 - [Deno 2.0: Será que agora o Node já era?](https://blog.lsantos.dev/deno-2/)
-- [O JavaScript será completamente diferente em 2025](https://blog.lsantos.dev/js-2025-de-novo/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
