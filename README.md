@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Tudo sobre o Node rodar TypeScript nativamente!](https://blog.lsantos.dev/o-nodejs-agora-roda-typescript-nativamente/)
 - [Backlog #5 - O grande show da bolha dev](https://blog.lsantos.dev/backlog-5-o-show-da-bolha/)
 - [Backlog #4 - A primeira linguagem de programação](https://blog.lsantos.dev/backlog-primeira-linguagem/)
 - [Backlog #3 - 29 anos de JavaScript!](https://blog.lsantos.dev/backlog-3-29-anos-de-javascript/)
 - [Backlog #2 - Trabalhar duro não vai te levar tão longe](https://blog.lsantos.dev/backlog-2/)
-- [Backlog #1 - O primeiro PC da história!](https://blog.lsantos.dev/backlog-1-o-primeiro-pc-de-todos/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
