@@ -31,11 +31,11 @@ These are my latest posts on [Medium](https://medium.com/@khaosdoctor), [my blog
 ### My Blog
 
 <!-- BLOG:START -->
+- [Backlog 8 - Minha jornada com Vim. Em 6 meses, o que mudou?](https://blog.lsantos.dev/backlog-vim/)
 - [Backlog #7 - As 10 Lições Que Mudaram a Minha Vida como Dev](https://blog.lsantos.dev/backlog-7-as-10-licoes-que-mudaram-a-minha-vida-como-dev-copy/)
 - [Backlog #6 - Você é um bom dev?](https://blog.lsantos.dev/backlog-bom-dev/)
 - [Tudo sobre o Node rodar TypeScript nativamente!](https://blog.lsantos.dev/o-nodejs-agora-roda-typescript-nativamente/)
 - [Backlog #5 - O grande show da bolha dev](https://blog.lsantos.dev/backlog-5-o-show-da-bolha/)
-- [Backlog #4 - A primeira linguagem de programação](https://blog.lsantos.dev/backlog-primeira-linguagem/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
